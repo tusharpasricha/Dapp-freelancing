@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Squada+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ramabhadra&display=swap');
+
+.categories{
+    margin-top: 20px;
+
+display: flex;
+height: 60vh;
+display: flex;
+font-family: 'Squada One', cursive;
+color: white;
+font-size: 8vw;
+text-align: center;
+
+}
+.cat1{
+    width: 48%;
+    background-color: aqua;
+    margin-right: 4%;
+    background: url(../img/sta.jpg);
+background-size: cover;
+
+
+}
+.cat2{
+    width: 48%;
+background-color: blue;
+background: url(../img/homedecor.jpg);
+background-size: cover;
+
+}

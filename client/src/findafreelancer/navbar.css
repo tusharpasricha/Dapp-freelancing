@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-family: 'Oswald', sans-serif;
+    border-bottom: 1px solid rgb(177, 177, 177);
+
+}
+.afternav{
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Oswald', sans-serif;
+    padding: 20px 280px 20px 280px;
+    font-size: 13px;
+    border-bottom: 1px solid rgb(177, 177, 177);
+
+}

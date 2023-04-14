@@ -1,0 +1,73 @@
+.main{
+    background: url('./img/home.jpg');
+    background-size: 80% 100%;
+    background-position: center ;
+   background-repeat: no-repeat;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+}
+.head{
+    font-size: 50px;
+    margin-left: 180px;
+    color: rgb(150, 135, 106);
+    
+    
+}
+.btn{
+    font-size: 35px;
+    cursor: pointer;
+    margin: auto;
+    color: rgb(150, 135, 106);
+    border: solid rgb(134, 121, 95);
+    padding: 12px;
+    border-radius: 15px;
+}
+.btn:hover{
+    color: white;
+    background-color: rgb(150, 135, 106);
+}
+.btns{
+    display: flex;
+    justify-content: space-between;
+}
+.fotter{
+    font-weight: 900;
+    color: white;
+    background-color: rgb(150, 135, 106);
+        padding: 12px;
+    font-size: 20px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;}
+
+.howitworks{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.text{
+    width: 80%;
+    padding: 40px;
+    font-size: 22px;
+    
+}
+
+.help{
+    display: flex;
+    justify-content: right;
+    color:  rgb(150, 135, 106);
+    margin-bottom: -460px;
+    font-size: 20px;
+    padding: 200px;
+    
+}
+.help span{
+    cursor: pointer;
+}
+
+.icon :hover{
+    cursor: pointer;
+    width: 50px;
+    
+}

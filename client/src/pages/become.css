@@ -1,0 +1,12 @@
+.subNavbar{
+    display: flex;
+    justify-content: space-evenly;
+   padding:0px 32px;
+   color: white;
+   text-decoration: none;
+     
+}
+.subNavbar a:hover{
+    color:#1dbf73;
+    border-bottom: 3px solid #1dbf73;
+}
