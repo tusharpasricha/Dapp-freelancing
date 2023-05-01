@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@300;500&family=Tilt+Prism&display=swap');
+
+.contract{
+    /* background: url(./img/data-security-threat.jpg); */
+    height: 100vh;
+    background-size: cover;   
+    display: flex; 
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.contract_details{
+    margin-bottom: 80px;
+}
+.remainder{
+    font-size: 50px;
+    font-weight: 10;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.remainder span{
+    font-weight: 50;
+}
+
+.b {
+    margin-left: 50px;
+    font-size: 28px;
+    height: 95px;
+    width: 250px;
+    border-radius: 10px;
+    border: none;
+    box-shadow: 1px 1px 0px 2px rgba (0,0,0,0.3);
+    background: rgb(25, 72, 94);
+     cursor: pointer;
+     color: rgb(196, 196, 196);
+   }
+   table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+   tr th {
+    font-size: 18px;
+    padding: 12px;
+    border: 1px solid #eeeeee;
+    text-align: left;
+    background-color: rgba(217, 221, 146, 0.2);
+  }
+  
+   tr td {
+    border: 1px solid #eeeeee;
+    text-align: left;
+  }

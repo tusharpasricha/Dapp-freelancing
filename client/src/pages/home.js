@@ -7,10 +7,11 @@ import Login from './Login';
 
 const Home = () => {
   return (
-
     <>
           <Link to="/become">Become a freelancer</Link>
           <Link to="/find">find a freelancer</Link>
+          <Link to="/contract">contract</Link>
+
     <Login/>
     </>
   )

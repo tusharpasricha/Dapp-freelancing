@@ -17,14 +17,14 @@ const Become = () => {
   return (
     <>
     <div className='find'>
-    <Navbar/>
-    <Afternav/>
-    <Home/>
+    {/* <Navbar/> */}
+    {/* <Afternav/> */}
+    {/* <Home/> */}
     <Freelancerform/>
     
-    <Feature/>
+    {/* <Feature/>
     <Howitworks/>
-    <Feedback/>
+    <Feedback/> */}
     <Footer/>
     </div>
     </>

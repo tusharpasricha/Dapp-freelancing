@@ -18,10 +18,10 @@ const Find = () => {
     <Afternav/>
     <Home/>
     <Freelancer/>
-    <Categories/>
-    <Feature/>
+    {/* <Categories/> */}
+    {/* <Feature/>
     <Howitworks/>
-    <Feedback/>
+    <Feedback/> */}
     <Footer/>
     </div>
   )
